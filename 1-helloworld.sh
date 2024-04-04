@@ -1,7 +1,8 @@
 #!/bin/bash
 
-echo "hello world, this is devops class"
+echo "hello world, I am learning shell scripting"
 
-echo "hello world , this 2nd day of git class practice"
-
-echo "hello world , this 3rd day training for shell script"
+echo "ramesh : Hi suresh, Good morning"
+echo "sure: good morning ramesh"
+echo :ramesh: How are you suresh"
+echo "suresh: I am fine, how are you ramesh"
