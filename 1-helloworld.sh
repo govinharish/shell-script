@@ -2,7 +2,10 @@
 
 echo "hello world, I am learning shell scripting"
 
-echo "ramesh : Hi suresh, Good morning"
-echo "sure: good morning ramesh"
-echo "ramesh: How are you suresh"
-echo "suresh: I am fine, how are you ramesh"
+person1=Ramesh
+person2=Suresh
+
+echo "$person1 : Hi $person2, Good morning"
+echo "$person2: good morning $person1"
+echo "$person1: How are you $person2"
+echo "$person2: I am fine, how are you $person1"
