@@ -12,6 +12,7 @@
 #how to install my sql
 
 UserId=$(id -u)
+
 if [ $UserId -ne 0]
 then
   echo "Error :: please log in with root access"
@@ -20,4 +21,4 @@ then
     echo "your are root user"
 fi
 
-    yum install mysql
+yum install mysql
