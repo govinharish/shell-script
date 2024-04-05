@@ -20,4 +20,4 @@ then
     echo "your are root user"
 fi
 
-    yum install mysql -y
+    yum install mysql
