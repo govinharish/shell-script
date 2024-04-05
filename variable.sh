@@ -1,8 +1,10 @@
 #!/bin/bash
 
-Number1=$1
-number2=$2
+number1=$1
 
-sum=$((Number1+number2))
-
-echo "addition of 2 numbers is : $sum"
+if [ $number1 -gt 10 ]
+then
+    echo "$number1 is not greater than 10"
+else 
+    echo "$number1 is greater than 10"
+fi
