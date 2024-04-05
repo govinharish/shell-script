@@ -11,7 +11,7 @@ read username
 
 echo "what is your password"
 
-read password
+read -s password
 
 echo "your name is $username"
 
