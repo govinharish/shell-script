@@ -10,3 +10,7 @@ echo "$person1: How are you $person2"
 echo "$person2: I am fine, how are you $person1"
 echo "$person2: I am fine, how are you $person1"
 echo "$person2: I am fine, how are you $person1"
+
+
+date
+date
